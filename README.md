@@ -56,9 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Yashk-04/Yashk-04/output/snake.svg" alt="Snake animation" />
 
 ###
 
